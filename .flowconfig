@@ -13,6 +13,8 @@
 ; large dirs that are not imported
 <PROJECT_ROOT>/docs/.*
 <PROJECT_ROOT>/pkg/nuclide-debugger/VendorLib/devtools/.*
+; bad
+<PROJECT_ROOT>/atom-ide-pkg/node_modules/.*
 
 [libs]
 flow-libs/
@@ -28,7 +30,7 @@ suppress_comment=.*\\$FlowFixMe.*
 suppress_comment=.*\\$FlowIssue.*
 suppress_comment=.*\\$FlowIgnore.*
 ; uncommenting the next line will silence flow errors about missing 'fb' modules
-; suppress_comment=.*\\$FlowFB.*
+suppress_comment=.*\\$FlowFB.*
 
 [version]
 0.44.0
