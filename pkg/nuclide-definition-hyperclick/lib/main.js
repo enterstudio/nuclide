@@ -11,7 +11,7 @@
 // This package provides Hyperclick results for any language which provides a
 // DefinitionProvider.
 
-import type {HyperclickProvider, HyperclickSuggestion} from '../../hyperclick/lib/types';
+import type {HyperclickProvider, HyperclickSuggestion} from 'hyperclick/lib/types';
 import type {DefinitionService} from '../../nuclide-definition-service';
 
 import {goToLocation} from '../../commons-atom/go-to-location';

@@ -8,7 +8,7 @@
  * @flow
  */
 
-import type {HyperclickProvider} from '../../hyperclick/lib/types';
+import type {HyperclickProvider} from 'hyperclick/lib/types';
 
 import HyperclickProviderHelpers from './HyperclickProviderHelpers';
 

@@ -8,7 +8,7 @@
  * @flow
  */
 
-import type {HyperclickProvider} from '../../hyperclick/lib/types';
+import type {HyperclickProvider} from 'hyperclick/lib/types';
 import type {Outline} from '../../nuclide-outline-view/lib/rpc-types';
 import type {OutlineProvider} from '../../nuclide-outline-view';
 

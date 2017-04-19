@@ -8,7 +8,7 @@
  * @flow
  */
 
-import type {HyperclickSuggestion} from '../../hyperclick/lib/types';
+import type {HyperclickSuggestion} from 'hyperclick/lib/types';
 
 import nuclideUri from '../../commons-node/nuclideUri';
 import {GRAMMARS, EXTENSIONS} from './constants';

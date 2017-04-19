@@ -8,7 +8,7 @@
  * @flow
  */
 
-import type {HyperclickSuggestion} from '../../hyperclick/lib/types';
+import type {HyperclickSuggestion} from 'hyperclick/lib/types';
 
 import {Range} from 'atom';
 import {shell} from 'electron';

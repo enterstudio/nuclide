@@ -8,7 +8,7 @@
  * @flow
  */
 
-import type {HyperclickProvider} from '../../hyperclick/lib/types';
+import type {HyperclickProvider} from 'hyperclick/lib/types';
 import type {Provider as QuickOpenProviderType} from '../../nuclide-quick-open/lib/types';
 
 import HyperclickHelpers from './HyperclickHelpers';

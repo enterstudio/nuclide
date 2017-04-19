@@ -12,7 +12,7 @@ import type {TaskRunnerServiceApi} from '../../nuclide-task-runner/lib/types';
 import type {BuckBuildSystem as BuckBuildSystemType} from './BuckBuildSystem';
 import type {BuckBuilderBuildOptions} from '../../nuclide-buck/lib/types';
 import type {OutputService} from '../../nuclide-console/lib/types';
-import type {HyperclickProvider} from '../../hyperclick/lib/types';
+import type {HyperclickProvider} from 'hyperclick/lib/types';
 import type {BuckBuilder, SerializedState} from './types';
 
 import registerGrammar from '../../commons-atom/register-grammar';

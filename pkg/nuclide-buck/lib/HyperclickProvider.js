@@ -11,7 +11,7 @@
 type Target = {path: NuclideUri, name: string};
 
 import type {NuclideUri} from '../../commons-node/nuclideUri';
-import type {HyperclickSuggestion} from '../../hyperclick/lib/types';
+import type {HyperclickSuggestion} from 'hyperclick/lib/types';
 import type {Point} from 'atom';
 
 import {getBuckProjectRoot, getBuckService} from '../../nuclide-buck-base';

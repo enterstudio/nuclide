@@ -8,9 +8,9 @@
  * @flow
  */
 
-import type {HyperclickProvider} from '../../hyperclick/lib/types';
+import type {HyperclickProvider} from 'hyperclick/lib/types';
 import type {DefinitionService} from '../../nuclide-definition-service';
-import type {HyperclickSuggestion} from '../../hyperclick/lib/types';
+import type {HyperclickSuggestion} from 'hyperclick/lib/types';
 
 import {clearRequireCache, uncachedRequire} from '../../nuclide-test-helpers';
 import {Point, Range} from 'atom';

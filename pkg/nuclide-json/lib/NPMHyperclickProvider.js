@@ -11,7 +11,7 @@
 import type {
   HyperclickProvider,
   HyperclickSuggestion,
-} from '../../hyperclick/lib/types';
+} from 'hyperclick/lib/types';
 
 import semver from 'semver';
 import nuclideUri from '../../commons-node/nuclideUri';

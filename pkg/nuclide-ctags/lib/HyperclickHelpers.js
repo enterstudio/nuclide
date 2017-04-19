@@ -8,7 +8,7 @@
  * @flow
  */
 
-import type {HyperclickSuggestion} from '../../hyperclick/lib/types';
+import type {HyperclickSuggestion} from 'hyperclick/lib/types';
 import type {CtagsResult, CtagsService} from '../../nuclide-ctags-rpc';
 
 import {goToLocation} from '../../commons-atom/go-to-location';
