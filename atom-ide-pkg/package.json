@@ -1,0 +1,9 @@
+{
+  "name": "atom-ide-pkg",
+  "private": true,
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.3"
+  }
+}
