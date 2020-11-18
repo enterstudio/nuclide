@@ -57,7 +57,7 @@
     "fuzzaldrin-plus": "0.4.1",
     "glob": "7.1.1",
     "graphql": "0.9.6",
-    "graphql-language-service": "0.0.15",
+    "graphql-language-service": "3.0.0",
     "heap": "0.2.6",
     "idx": "1.2.0",
     "immutable": "3.7.6",
@@ -100,7 +100,7 @@
     "ws": "2.0.3",
     "xml2js": "0.4.17",
     "xterm": "2.5.0",
-    "yargs": "3.32.0"
+    "yargs": "16.0.0"
   },
   "devDependencies": {
     "atom-grammar-test": "0.6.3",
