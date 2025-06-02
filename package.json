@@ -100,7 +100,7 @@
     "ws": "2.0.3",
     "xml2js": "0.4.17",
     "xterm": "2.5.0",
-    "yargs": "3.32.0"
+    "yargs": "18.0.0"
   },
   "devDependencies": {
     "atom-grammar-test": "0.6.3",
